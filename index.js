@@ -1,4 +1,5 @@
 const express =require('express')
+const cors=require('cors')
 const store=require("./Store/Storing")
 const app=express();
 
