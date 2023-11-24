@@ -538,7 +538,7 @@ const store=[
        
       
 ]
-stores.post("/store",(req,res)=>{
+stores.get("/store",(req,res)=>{
     res.send(store)
 })
 
