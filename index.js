@@ -2,7 +2,9 @@ const express =require('express')
 const store=require("./Store/Storing")
 const app=express();
 
-
+app.use(cors({
+    origin:"*"
+}))
 app.use("/api",store)
 
 
