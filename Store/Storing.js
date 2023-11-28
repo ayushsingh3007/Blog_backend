@@ -7,7 +7,7 @@ const store=[
     {
         id:1,
         cat:"Bollywood",
-        img:"https://cdn.bollywoodmdb.com/fit-in/post/Tiger321_1694768684428.jpg",
+        img:"https://wallpapers.com/images/featured/bollywood-hd-l0ncq4j17ocd1nho.jpg",
         name:"Tiger 3",
         story:"The third installment of the popular 'Tiger' franchise, starring Salman Khan and Katrina Kaif, is all set to release in November this year. However, the film's makers have not yet released any teaser or trailer, which has left fans eagerly awaiting updates."
       },
